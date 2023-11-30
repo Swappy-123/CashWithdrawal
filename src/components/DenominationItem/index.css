@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.num {
+  height: 8vh;
+  width: 25vh;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: #c4c4c4;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px;
+  font-family: 'Roboto';
+}
